@@ -4,7 +4,7 @@ public class Inheritance {
 	public static void main(String[] args) {
 		System.out.println("inheritance");
 		System.out.println("encapsulation");
-		System.out.println("i");
+		System.out.println("h");
 
 	}
 
